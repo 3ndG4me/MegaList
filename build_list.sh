@@ -2,17 +2,6 @@ echo "Getting those 1337 dictionaries 4 u..."
 mkdir OtherLists
 cd OtherLists
 wget https://crackstation.net/files/crackstation.txt.gz
-wget downloads.skullsecurity.org/passwords/myspace.txt.bz2
-wget downloads.skullsecurity.org/passwords/hotmail.txt.bz2
-wget downloads.skullsecurity.org/passwords/faithwriters.txt.bz2
-wget downloads.skullsecurity.org/passwords/elitehacker.txt.bz2
-wget downloads.skullsecurity.org/passwords/alypaa.txt.bz2
-wget downloads.skullsecurity.org/passwords/facebook-pastebay.txt.bz2
-wget downloads.skullsecurity.org/passwords/porn-unknown.txt.bz2
-wget downloads.skullsecurity.org/passwords/tuscl.txt.bz2
-wget downloads.skullsecurity.org/passwords/facebook-phished.txt.bz2
-wget downloads.skullsecurity.org/passwords/carders.cc.txt.bz2
-wget downloads.skullsecurity.org/passwords/singles.org.txt.bz2
 echo "Done...unzipping..."
 gunzip crackstation.txt.gz
 bunzip2 *.bz2
